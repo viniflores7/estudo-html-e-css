@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(55, 117, 184);
+    color: aliceblue;
+}
+
+main {
+    margin: 1rem;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+
+li {
+    margin: 1rem;
+    padding: 1rem;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a {
+    color: rgb(32, 1, 190);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    background-color: rgb(36,29,29); 
+    text-align: center;
+    padding: 1rem;
+}
+
+.backer {
+    color: rgb(152, 194, 231);
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.obs {
+    text-align: center;
+}
+
+.mainnormal {
+    text-align: justify;
+    padding: 0rem;
+}
+
+.pnormal {
+    margin-top: 0.5rem;
+}
+
+.sectionnormal {
+    padding-bottom: 1.2rem;
+    margin-top: 1rem;
+}
+
+.ulmenu {
+    border: 2px solid #050096;
+    margin: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(162, 181, 198);
+}
+
+.lijust {
+    padding: 0rem;
+}
