@@ -34,9 +34,10 @@ a {
 }
 
 footer {
-    background-color: rgb(36,29,29); 
+    background-color: rgb(40, 98, 145); 
     text-align: center;
     padding: 1rem;
+    border: 1px solid #050096
 }
 
 .backer {
