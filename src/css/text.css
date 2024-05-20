@@ -61,6 +61,7 @@ footer {
 
 .pnormal {
     margin-top: 0.5rem;
+    padding-bottom: 0.7rem;
 }
 
 .sectionnormal {
@@ -77,4 +78,8 @@ footer {
 
 .lijust {
     padding: 0rem;
+}
+
+.titulonormal {
+    padding-bottom: 1.2rem;
 }
